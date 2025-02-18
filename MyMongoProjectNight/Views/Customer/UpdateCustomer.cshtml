@@ -1,0 +1,17 @@
+﻿@model MyMongoProjectNight.Dtos.CustomerDtos.UpdateCustomerDto
+@{
+    Layout = null;
+}
+<link href="~/lib/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" />
+<div class="container mt-2 mb-3">
+    <form method="post">
+        <input type="hidden" asp-for="CustomerId" />
+        <label>Müşteri Adı</label>
+        <input type="text" asp-for="CustomerName" class="form-control mb-2" />
+
+        <label>Müşteri Soyadı</label>
+        <input type="text" asp-for="CustomerSurname" class="form-control mb-2" />
+
+        <button class="btn btn-info">Müşteriyi Güncelle</button>
+    </form>
+</div>

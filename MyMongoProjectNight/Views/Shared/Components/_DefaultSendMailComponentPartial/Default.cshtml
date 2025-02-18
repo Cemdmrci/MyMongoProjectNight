@@ -1,0 +1,40 @@
+﻿﻿<section class="py-5">
+    <div class="container-fluid">
+
+        <div class="bg-secondary py-5 my-5 rounded-5" style="background: url('/FoodMart-1.0.0/images/bg-leaves-img-pattern.png') no-repeat;">
+            <div class="container my-5">
+                <div class="row">
+                    <div class="col-md-6 p-5">
+                        <div class="section-header">
+                            <h2 class="section-title display-4"><span class="text-primary">Müşterilerinize Özel</span><br />indirim kodları oluşturun</h2>
+                        </div>
+                        <p>İstediğiniz müşterilere özel indirim kodları oluşturarak e-posta adresi aracılığıyla kendilerine iletebilirsiniz.</p>
+                    </div>
+                    <div class="col-md-6 p-5">
+                        <form method="post" asp-action="SendMail" asp-controller="Mail">
+                            <div class="mb-3">
+                                <label for="name" class="form-label">Ad Soyad</label>
+                                <input type="text" class="form-control form-control-lg" name="name" id="name" placeholder="Müşteri adı soyadı" required>
+                            </div>
+                            <div class="mb-3">
+                                <label for="email" class="form-label">E-Posta Adresi</label>
+                                <input type="email" class="form-control form-control-lg" name="email" id="email" placeholder="musteri@gmail.com" required>
+                            </div>
+                            <div class="mb-3">
+                                <label for="discountrate" class="form-label">Kupon Kodu</label>
+                                <input type="text" class="form-control form-control-lg" name="discountrate" id="discountrate" placeholder="%20" required>
+                            </div>
+                            <div class="mb-3">
+                                <label for="message" class="form-label">Mesaj</label>
+                                <textarea class="form-control form-control-lg" name="message" id="message" placeholder="Mesajınız ve indirim kodu" required></textarea>
+                            </div>
+                            <div class="d-grid gap-2">
+                                <button type="submit" class="btn btn-dark btn-lg">Gönder</button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

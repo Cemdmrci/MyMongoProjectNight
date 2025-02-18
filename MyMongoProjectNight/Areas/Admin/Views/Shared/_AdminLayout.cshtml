@@ -1,0 +1,237 @@
+﻿﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+﻿
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>Tables - Kaiadmin Bootstrap 5 Admin Dashboard</title>
+    <meta content="width=device-width, initial-scale=1.0, shrink-to-fit=no"
+          name="viewport" />
+    <link rel="icon"
+          href="~/kaiadmin-lite-1.2.0/assets/img/kaiadmin/favicon.ico"
+          type="image/x-icon" />
+
+    <script src="~/kaiadmin-lite-1.2.0/assets/js/plugin/webfont/webfont.min.js"></script>
+    <script>
+        WebFont.load({
+            google: { families: ["Public Sans:300,400,500,600,700"] },
+            custom: {
+                families: [
+                    "Font Awesome 5 Solid",
+                    "Font Awesome 5 Regular",
+                    "Font Awesome 5 Brands",
+                    "simple-line-icons",
+                ],
+                urls: ["~/kaiadmin-lite-1.2.0/assets/css/fonts.min.css"],
+            },
+            active: function () {
+                sessionStorage.fonts = true;
+            },
+        });
+    </script>
+
+    <link rel="stylesheet" href="~/kaiadmin-lite-1.2.0/assets/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/kaiadmin-lite-1.2.0/assets/css/plugins.min.css" />
+    <link rel="stylesheet" href="~/kaiadmin-lite-1.2.0/assets/css/kaiadmin.min.css" />
+    <link rel="stylesheet" href="~/kaiadmin-lite-1.2.0/assets/css/demo.css" />
+</head>
+<body>
+    <div class="wrapper">
+
+        ﻿<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+
+        <div class="sidebar" data-background-color="dark">
+            <div class="sidebar-logo">
+                <!-- Logo Header -->
+                <div class="logo-header" data-background-color="dark">
+                    <a href="../index.html" class="logo">
+                        <img src="~/kaiadmin-lite-1.2.0/assets/img/kaiadmin/logo_light.svg"
+                             alt="navbar brand"
+                             class="navbar-brand"
+                             height="20" />
+                    </a>
+                    <div class="nav-toggle">
+                        <button class="btn btn-toggle toggle-sidebar">
+                            <i class="gg-menu-right"></i>
+                        </button>
+                        <button class="btn btn-toggle sidenav-toggler">
+                            <i class="gg-menu-left"></i>
+                        </button>
+                    </div>
+                    <button class="topbar-toggler more">
+                        <i class="gg-more-vertical-alt"></i>
+                    </button>
+                </div>
+                <!-- End Logo Header -->
+            </div>
+            <div class="sidebar-wrapper scrollbar scrollbar-inner">
+                <div class="sidebar-content">
+                    <ul class="nav nav-primary">
+
+                        <li class="nav-section">
+                            <a href="/Admin/Product/ProductList" class="text-section" style="color:bisque">
+                                <i class="fas fa-box-open"></i> Ürünler
+                            </a>
+                        </li>
+                        <li class="nav-section">
+                            <a href="/Admin/Category/CategoryList" class="text-section" style="color:bisque">
+                                <i class="fas fa-th-large"></i> Kategoriler
+                            </a>
+                        </li>
+                        <li class="nav-section">
+                            <a href="/Admin/Feature/FeatureList" class="text-section" style="color:bisque">
+                                <i class="fas fa-images"></i> Öne Çıkan Slider
+                            </a>
+                        </li>
+                        <li class="nav-section">
+                            <a href="/Admin/Discount/DiscountList" class="text-section" style="color:bisque">
+                                <i class="fas fa-percent discount-icon"></i> İndirimler
+                            </a>
+                        </li>
+                        <li class="nav-section">
+                            <a href="/Admin/Sale/SaleList" class="text-section" style="color:bisque">
+                                <i class="fas fa-shopping-cart	 discount-icon"></i> Satışlar
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        ﻿<div class="main-panel">
+            <div class="main-header">
+                <nav class="navbar navbar-header navbar-header-transparent navbar-expand-lg border-bottom">
+                    <div class="container-fluid">
+                        <nav class="navbar navbar-header-left navbar-expand-lg navbar-form nav-search p-0 d-none d-lg-flex">
+                            <div class="input-group">
+                                <div class="input-group-prepend">
+                                    <button type="submit" class="btn btn-search pe-1">
+                                        <i class="fa fa-search search-icon"></i>
+                                    </button>
+                                </div>
+                                <input type="text"
+                                       placeholder="Aranacak Kelimeyi Giriniz ...."
+                                       class="form-control" />
+                            </div>
+                        </nav>
+
+                        <ul class="navbar-nav topbar-nav ms-md-auto align-items-center">
+                            <li class="nav-item topbar-icon dropdown hidden-caret d-flex d-lg-none">
+                                <a class="nav-link dropdown-toggle"
+                                   data-bs-toggle="dropdown"
+                                   href="#"
+                                   role="button"
+                                   aria-expanded="false"
+                                   aria-haspopup="true">
+                                    <i class="fa fa-search"></i>
+                                </a>
+                                <ul class="dropdown-menu dropdown-search animated fadeIn">
+                                    <form class="navbar-left navbar-form nav-search">
+                                        <div class="input-group">
+                                            <input type="text"
+                                                   placeholder="Aranacak Kelimeyi Giriniz ..."
+                                                   class="form-control" />
+                                        </div>
+                                    </form>
+                                </ul>
+                            </li>
+
+
+                            <li class="nav-item topbar-user dropdown hidden-caret">
+                                <a class="dropdown-toggle profile-pic"
+                                   data-bs-toggle="dropdown"
+                                   href="#"
+                                   aria-expanded="false">
+                                    <div class="avatar-sm">
+                                        <img src="~/kaiadmin-lite-1.2.0/assets/img/profile.jpg"
+                                             alt="..."
+                                             class="avatar-img rounded-circle" />
+                                    </div>
+                                    <span class="profile-username">
+                                        <span class="fw-bold">Admin</span>
+                                    </span>
+                                </a>
+
+                            </li>
+                        </ul>
+                    </div>
+
+            </div>
+
+        <div class="container">
+            <div class="page-inner">
+
+                @RenderBody()
+
+            </div>
+        </div>
+            ﻿<footer class="footer">
+                <div class="container-fluid d-flex justify-content-between">
+                    <nav class="pull-left">
+                        <ul class="nav">
+                            <li class="nav-item">
+                                <a class="nav-link" href="http://www.themekita.com">
+                                    ThemeKita
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="#"> Yardım </a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="#"> Lisans </a>
+                            </li>
+                        </ul>
+                    </nav>
+                    <div class="copyright">
+                        @DateTime.Now.Year <i class="fa fa-heart heart text-danger"></i>
+                        <a href="http://www.themekita.com">ThemeKita</a>
+                    </div>
+                    <div>
+                        Tarafından Tasarlandı
+                        <a target="_blank" href="https://themewagon.com/">ThemeWagon</a>.
+                    </div>
+                </div>
+            </footer>
+
+
+    </div>
+
+        ﻿<script src="~/kaiadmin-lite-1.2.0/assets/js/core/jquery-3.7.1.min.js"></script>
+        <script src="~/kaiadmin-lite-1.2.0/assets/js/core/popper.min.js"></script>
+        <script src="~/kaiadmin-lite-1.2.0/assets/js/core/bootstrap.min.js"></script>
+        <script src="~/kaiadmin-lite-1.2.0/assets/js/plugin/jquery-scrollbar/jquery.scrollbar.min.js"></script>
+        <script src="~/kaiadmin-lite-1.2.0/assets/js/kaiadmin.min.js"></script>
+
+        <script>
+            $("#displayNotif").on("click", function () {
+                var placementFrom = $("#notify_placement_from option:selected").val();
+                var placementAlign = $("#notify_placement_align option:selected").val();
+                var state = $("#notify_state option:selected").val();
+                var style = $("#notify_style option:selected").val();
+                var content = {};
+
+                content.message =
+                    'Turning standard Bootstrap alerts into "notify" like notifications';
+                content.title = "Bootstrap notify";
+                if (style == "withicon") {
+                    content.icon = "fa fa-bell";
+                } else {
+                    content.icon = "none";
+                }
+                content.url = "index.html";
+                content.target = "_blank";
+
+                $.notify(content, {
+                    type: state,
+                    placement: {
+                        from: placementFrom,
+                        align: placementAlign,
+                    },
+                    time: 1000,
+                });
+            });
+        </script>
+</body>
+</html>
