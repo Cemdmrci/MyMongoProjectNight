@@ -41,7 +41,7 @@ namespace MyMongoProjectNight.Services.ProductServices
 
 		public async Task<List<ResultProductWithCategoryDto>> GetAllProductOfFastFoodCategoryAsync()
 		{
-			var category = await _categoryCollection.Find(x => x.CategoryName == "Fast&Food").FirstOrDefaultAsync();
+			var category = await _categoryCollection.Find(x => x.CategoryName == "FastFood").FirstOrDefaultAsync();
 			if (category == null)
 				return new List<ResultProductWithCategoryDto>();
 
@@ -56,7 +56,7 @@ namespace MyMongoProjectNight.Services.ProductServices
 
 		public async Task<List<ResultProductWithCategoryDto>> GetAllProductOfSebzeMeyveCategoryAsync()
 		{
-			var category = await _categoryCollection.Find(x => x.CategoryName == "Sebze & Meyve").FirstOrDefaultAsync();
+			var category = await _categoryCollection.Find(x => x.CategoryName == "SebzeMeyve").FirstOrDefaultAsync();
 			if (category == null)
 				return new List<ResultProductWithCategoryDto>();
 
@@ -87,7 +87,7 @@ namespace MyMongoProjectNight.Services.ProductServices
 
 		public async Task<List<ResultProductWithCategoryDto>> GetAllProductOfSutUrunleriCategoryAsync()
 		{
-			var category = await _categoryCollection.Find(x => x.CategoryName == "Süt Ürünleri").FirstOrDefaultAsync();
+			var category = await _categoryCollection.Find(x => x.CategoryName == "SütÜrünleri").FirstOrDefaultAsync();
 			if (category == null)
 				return new List<ResultProductWithCategoryDto>();
 
@@ -102,7 +102,7 @@ namespace MyMongoProjectNight.Services.ProductServices
 
 		public async Task<List<ResultProductWithCategoryDto>> GetAllProductOfUnluMamullerCategoryAsync()
 		{
-			var category = await _categoryCollection.Find(x => x.CategoryName == "Unlu Mamüller").FirstOrDefaultAsync();
+			var category = await _categoryCollection.Find(x => x.CategoryName == "UnluMamüller").FirstOrDefaultAsync();
 			if (category == null)
 				return new List<ResultProductWithCategoryDto>();
 

@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using MyMongoProjectNight.Dtos.ProductDtos;
 using MyMongoProjectNight.Services.ProductServices;
+using System.Data.Common;
 
 namespace MyMongoProjectNight.Controllers
 {
@@ -8,15 +9,18 @@ namespace MyMongoProjectNight.Controllers
 	{
 		private readonly IProductService _productService;
 
-		public ProductController(IProductService productService)
-		{
-			_productService = productService;
-		}
+        public ProductController(IProductService productService)
+        {
+            _productService = productService;
+        }
+
+
 		public async Task<IActionResult> Index()
 		{
 			var values = await _productService.GetAllProductWithCategoryAsync();
 			return View(values);
 		}
+
 		[HttpGet]
 		public async Task<IActionResult> Search(string query)
 		{

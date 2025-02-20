@@ -1,0 +1,2249 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\MyMongoProjectNight.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MyMongoProjectNight.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\FoodMart-1.0.0\\css\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\FoodMart-1.0.0\\css\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\FoodMart-1.0.0\\css\\normalize.css",
+      "PackagePath": "staticwebassets\\FoodMart-1.0.0\\css\\normalize.css"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\FoodMart-1.0.0\\css\\vendor.css",
+      "PackagePath": "staticwebassets\\FoodMart-1.0.0\\css\\vendor.css"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\FoodMart-1.0.0\\images\\ad-bg-pattern.png",
+      "PackagePath": "staticwebassets\\FoodMart-1.0.0\\images\\ad-bg-pattern.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\FoodMart-1.0.0\\images\\ad-image-1.png",
+      "PackagePath": "staticwebassets\\FoodMart-1.0.0\\images\\ad-image-1.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\FoodMart-1.0.0\\images\\ad-image-2.png",
+      "PackagePath": "staticwebassets\\FoodMart-1.0.0\\images\\ad-image-2.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\FoodMart-1.0.0\\images\\ad-image-3.png",
+      "PackagePath": "staticwebassets\\FoodMart-1.0.0\\images\\ad-image-3.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\FoodMart-1.0.0\\images\\ad-image-4.png",
+      "PackagePath": "staticwebassets\\FoodMart-1.0.0\\images\\ad-image-4.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\FoodMart-1.0.0\\images\\app-store.jpg",
+      "PackagePath": "staticwebassets\\FoodMart-1.0.0\\images\\app-store.jpg"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\FoodMart-1.0.0\\images\\background-pattern.jpg",
+      "PackagePath": "staticwebassets\\FoodMart-1.0.0\\images\\background-pattern.jpg"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\FoodMart-1.0.0\\images\\banner-image-1.jpg",
+      "PackagePath": "staticwebassets\\FoodMart-1.0.0\\images\\banner-image-1.jpg"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\FoodMart-1.0.0\\images\\banner-image-2.jpg",
+      "PackagePath": "staticwebassets\\FoodMart-1.0.0\\images\\banner-image-2.jpg"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\FoodMart-1.0.0\\images\\bg-dot-pattern.png",
+      "PackagePath": "staticwebassets\\FoodMart-1.0.0\\images\\bg-dot-pattern.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\FoodMart-1.0.0\\images\\bg-leaves-img-pattern.png",
+      "PackagePath": "staticwebassets\\FoodMart-1.0.0\\images\\bg-leaves-img-pattern.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\FoodMart-1.0.0\\images\\bg-leaves-pattern.png",
+      "PackagePath": "staticwebassets\\FoodMart-1.0.0\\images\\bg-leaves-pattern.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\FoodMart-1.0.0\\images\\bg-light.jpg",
+      "PackagePath": "staticwebassets\\FoodMart-1.0.0\\images\\bg-light.jpg"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\FoodMart-1.0.0\\images\\bg-pattern-2.png",
+      "PackagePath": "staticwebassets\\FoodMart-1.0.0\\images\\bg-pattern-2.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\FoodMart-1.0.0\\images\\chocolat\\close.png",
+      "PackagePath": "staticwebassets\\FoodMart-1.0.0\\images\\chocolat\\close.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\FoodMart-1.0.0\\images\\chocolat\\fullscreen-black.png",
+      "PackagePath": "staticwebassets\\FoodMart-1.0.0\\images\\chocolat\\fullscreen-black.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\FoodMart-1.0.0\\images\\chocolat\\fullscreen.png",
+      "PackagePath": "staticwebassets\\FoodMart-1.0.0\\images\\chocolat\\fullscreen.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\FoodMart-1.0.0\\images\\chocolat\\left.png",
+      "PackagePath": "staticwebassets\\FoodMart-1.0.0\\images\\chocolat\\left.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\FoodMart-1.0.0\\images\\chocolat\\loader.gif",
+      "PackagePath": "staticwebassets\\FoodMart-1.0.0\\images\\chocolat\\loader.gif"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\FoodMart-1.0.0\\images\\chocolat\\right.png",
+      "PackagePath": "staticwebassets\\FoodMart-1.0.0\\images\\chocolat\\right.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\FoodMart-1.0.0\\images\\gift.svg",
+      "PackagePath": "staticwebassets\\FoodMart-1.0.0\\images\\gift.svg"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\FoodMart-1.0.0\\images\\google-play.jpg",
+      "PackagePath": "staticwebassets\\FoodMart-1.0.0\\images\\google-play.jpg"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\FoodMart-1.0.0\\images\\icon-animal-products-drumsticks.png",
+      "PackagePath": "staticwebassets\\FoodMart-1.0.0\\images\\icon-animal-products-drumsticks.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\FoodMart-1.0.0\\images\\icon-bread-baguette.png",
+      "PackagePath": "staticwebassets\\FoodMart-1.0.0\\images\\icon-bread-baguette.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\FoodMart-1.0.0\\images\\icon-bread-herb-flour.png",
+      "PackagePath": "staticwebassets\\FoodMart-1.0.0\\images\\icon-bread-herb-flour.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\FoodMart-1.0.0\\images\\icon-soft-drinks-bottle.png",
+      "PackagePath": "staticwebassets\\FoodMart-1.0.0\\images\\icon-soft-drinks-bottle.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\FoodMart-1.0.0\\images\\icon-vegetables-broccoli.png",
+      "PackagePath": "staticwebassets\\FoodMart-1.0.0\\images\\icon-vegetables-broccoli.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\FoodMart-1.0.0\\images\\icon-wine-glass-bottle.png",
+      "PackagePath": "staticwebassets\\FoodMart-1.0.0\\images\\icon-wine-glass-bottle.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\FoodMart-1.0.0\\images\\logo.png",
+      "PackagePath": "staticwebassets\\FoodMart-1.0.0\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\FoodMart-1.0.0\\images\\phone.png",
+      "PackagePath": "staticwebassets\\FoodMart-1.0.0\\images\\phone.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\FoodMart-1.0.0\\images\\post-thumb-1.jpg",
+      "PackagePath": "staticwebassets\\FoodMart-1.0.0\\images\\post-thumb-1.jpg"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\FoodMart-1.0.0\\images\\post-thumb-2.jpg",
+      "PackagePath": "staticwebassets\\FoodMart-1.0.0\\images\\post-thumb-2.jpg"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\FoodMart-1.0.0\\images\\post-thumb-3.jpg",
+      "PackagePath": "staticwebassets\\FoodMart-1.0.0\\images\\post-thumb-3.jpg"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\FoodMart-1.0.0\\images\\product-thumb-1.png",
+      "PackagePath": "staticwebassets\\FoodMart-1.0.0\\images\\product-thumb-1.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\FoodMart-1.0.0\\images\\product-thumb-11.jpg",
+      "PackagePath": "staticwebassets\\FoodMart-1.0.0\\images\\product-thumb-11.jpg"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\FoodMart-1.0.0\\images\\product-thumb-12.jpg",
+      "PackagePath": "staticwebassets\\FoodMart-1.0.0\\images\\product-thumb-12.jpg"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\FoodMart-1.0.0\\images\\product-thumb-13.jpg",
+      "PackagePath": "staticwebassets\\FoodMart-1.0.0\\images\\product-thumb-13.jpg"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\FoodMart-1.0.0\\images\\product-thumb-14.jpg",
+      "PackagePath": "staticwebassets\\FoodMart-1.0.0\\images\\product-thumb-14.jpg"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\FoodMart-1.0.0\\images\\product-thumb-2.png",
+      "PackagePath": "staticwebassets\\FoodMart-1.0.0\\images\\product-thumb-2.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\FoodMart-1.0.0\\images\\reviewer-1.jpg",
+      "PackagePath": "staticwebassets\\FoodMart-1.0.0\\images\\reviewer-1.jpg"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\FoodMart-1.0.0\\images\\reviewer-2.jpg",
+      "PackagePath": "staticwebassets\\FoodMart-1.0.0\\images\\reviewer-2.jpg"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\FoodMart-1.0.0\\images\\reviewer-3.jpg",
+      "PackagePath": "staticwebassets\\FoodMart-1.0.0\\images\\reviewer-3.jpg"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\FoodMart-1.0.0\\images\\singel-product-item.jpg",
+      "PackagePath": "staticwebassets\\FoodMart-1.0.0\\images\\singel-product-item.jpg"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\FoodMart-1.0.0\\images\\slide-1.jpg",
+      "PackagePath": "staticwebassets\\FoodMart-1.0.0\\images\\slide-1.jpg"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\FoodMart-1.0.0\\images\\slide-2.jpg",
+      "PackagePath": "staticwebassets\\FoodMart-1.0.0\\images\\slide-2.jpg"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\FoodMart-1.0.0\\images\\slide-3.jpg",
+      "PackagePath": "staticwebassets\\FoodMart-1.0.0\\images\\slide-3.jpg"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\FoodMart-1.0.0\\images\\slide-4.jpg",
+      "PackagePath": "staticwebassets\\FoodMart-1.0.0\\images\\slide-4.jpg"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\FoodMart-1.0.0\\images\\thumb-avocado.png",
+      "PackagePath": "staticwebassets\\FoodMart-1.0.0\\images\\thumb-avocado.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\FoodMart-1.0.0\\images\\thumb-bananas.png",
+      "PackagePath": "staticwebassets\\FoodMart-1.0.0\\images\\thumb-bananas.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\FoodMart-1.0.0\\images\\thumb-biscuits.png",
+      "PackagePath": "staticwebassets\\FoodMart-1.0.0\\images\\thumb-biscuits.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\FoodMart-1.0.0\\images\\thumb-cucumber.png",
+      "PackagePath": "staticwebassets\\FoodMart-1.0.0\\images\\thumb-cucumber.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\FoodMart-1.0.0\\images\\thumb-herb.jpg",
+      "PackagePath": "staticwebassets\\FoodMart-1.0.0\\images\\thumb-herb.jpg"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\FoodMart-1.0.0\\images\\thumb-honey.jpg",
+      "PackagePath": "staticwebassets\\FoodMart-1.0.0\\images\\thumb-honey.jpg"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\FoodMart-1.0.0\\images\\thumb-junk.jpg",
+      "PackagePath": "staticwebassets\\FoodMart-1.0.0\\images\\thumb-junk.jpg"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\FoodMart-1.0.0\\images\\thumb-milk.png",
+      "PackagePath": "staticwebassets\\FoodMart-1.0.0\\images\\thumb-milk.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\FoodMart-1.0.0\\images\\thumb-orange-juice.png",
+      "PackagePath": "staticwebassets\\FoodMart-1.0.0\\images\\thumb-orange-juice.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\FoodMart-1.0.0\\images\\thumb-raspberries.png",
+      "PackagePath": "staticwebassets\\FoodMart-1.0.0\\images\\thumb-raspberries.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\FoodMart-1.0.0\\images\\thumb-tomatoes.png",
+      "PackagePath": "staticwebassets\\FoodMart-1.0.0\\images\\thumb-tomatoes.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\FoodMart-1.0.0\\images\\thumb-tomatoketchup.png",
+      "PackagePath": "staticwebassets\\FoodMart-1.0.0\\images\\thumb-tomatoketchup.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\FoodMart-1.0.0\\images\\thumb-tuna.jpg",
+      "PackagePath": "staticwebassets\\FoodMart-1.0.0\\images\\thumb-tuna.jpg"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\FoodMart-1.0.0\\index.html",
+      "PackagePath": "staticwebassets\\FoodMart-1.0.0\\index.html"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\FoodMart-1.0.0\\js\\jquery-1.11.0.min.js",
+      "PackagePath": "staticwebassets\\FoodMart-1.0.0\\js\\jquery-1.11.0.min.js"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\FoodMart-1.0.0\\js\\modernizr.js",
+      "PackagePath": "staticwebassets\\FoodMart-1.0.0\\js\\modernizr.js"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\FoodMart-1.0.0\\js\\plugins.js",
+      "PackagePath": "staticwebassets\\FoodMart-1.0.0\\js\\plugins.js"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\FoodMart-1.0.0\\js\\script.js",
+      "PackagePath": "staticwebassets\\FoodMart-1.0.0\\js\\script.js"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\FoodMart-1.0.0\\readme.txt",
+      "PackagePath": "staticwebassets\\FoodMart-1.0.0\\readme.txt"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\FoodMart-1.0.0\\style.css",
+      "PackagePath": "staticwebassets\\FoodMart-1.0.0\\style.css"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\LICENSE",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\README.md",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\README.md"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\css\\demo.css",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\css\\demo.css"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\css\\demo.css.map",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\css\\demo.css.map"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\css\\fonts.css",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\css\\fonts.css"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\css\\fonts.min.css",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\css\\fonts.min.css"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\css\\kaiadmin.css",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\css\\kaiadmin.css"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\css\\kaiadmin.css.map",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\css\\kaiadmin.css.map"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\css\\kaiadmin.min.css",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\css\\kaiadmin.min.css"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\css\\plugins.css",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\css\\plugins.css"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\css\\plugins.css.map",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\css\\plugins.css.map"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\css\\plugins.min.css",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\css\\plugins.min.css"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\fonts\\fontawesome\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\fonts\\fontawesome\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\fonts\\fontawesome\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\fonts\\fontawesome\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\fonts\\fontawesome\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\fonts\\fontawesome\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\fonts\\fontawesome\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\fonts\\fontawesome\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\fonts\\fontawesome\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\fonts\\fontawesome\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\fonts\\fontawesome\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\fonts\\fontawesome\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\fonts\\fontawesome\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\fonts\\fontawesome\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\fonts\\fontawesome\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\fonts\\fontawesome\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\fonts\\fontawesome\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\fonts\\fontawesome\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\fonts\\fontawesome\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\fonts\\fontawesome\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\fonts\\fontawesome\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\fonts\\fontawesome\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\fonts\\fontawesome\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\fonts\\fontawesome\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\fonts\\fontawesome\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\fonts\\fontawesome\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\fonts\\fontawesome\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\fonts\\fontawesome\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\fonts\\fontawesome\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\fonts\\fontawesome\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\fonts\\simple-line-icons\\Simple-Line-Icons.eot",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\fonts\\simple-line-icons\\Simple-Line-Icons.eot"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\fonts\\simple-line-icons\\Simple-Line-Icons.svg",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\fonts\\simple-line-icons\\Simple-Line-Icons.svg"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\fonts\\simple-line-icons\\Simple-Line-Icons.ttf",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\fonts\\simple-line-icons\\Simple-Line-Icons.ttf"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\fonts\\simple-line-icons\\Simple-Line-Icons.woff",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\fonts\\simple-line-icons\\Simple-Line-Icons.woff"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\fonts\\simple-line-icons\\Simple-Line-Icons.woff2",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\fonts\\simple-line-icons\\Simple-Line-Icons.woff2"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\fonts\\summernote\\summernote.eot",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\fonts\\summernote\\summernote.eot"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\fonts\\summernote\\summernote.ttf",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\fonts\\summernote\\summernote.ttf"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\fonts\\summernote\\summernote.woff",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\fonts\\summernote\\summernote.woff"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\fonts\\summernote\\summernote.woff2",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\fonts\\summernote\\summernote.woff2"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\arashmil.jpg",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\arashmil.jpg"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\bg-404.jpeg",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\bg-404.jpeg"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\blogpost.jpg",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\blogpost.jpg"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\chadengle.jpg",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\chadengle.jpg"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\examples\\example1-300x300.jpg",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\examples\\example1-300x300.jpg"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\examples\\example1.jpeg",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\examples\\example1.jpeg"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\examples\\example10-300x300.jpg",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\examples\\example10-300x300.jpg"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\examples\\example10.jpeg",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\examples\\example10.jpeg"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\examples\\example11-300x300.jpg",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\examples\\example11-300x300.jpg"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\examples\\example11.jpeg",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\examples\\example11.jpeg"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\examples\\example12-300x300.jpg",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\examples\\example12-300x300.jpg"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\examples\\example12.jpeg",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\examples\\example12.jpeg"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\examples\\example2-300x300.jpg",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\examples\\example2-300x300.jpg"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\examples\\example2.jpeg",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\examples\\example2.jpeg"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\examples\\example3-300x300.jpg",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\examples\\example3-300x300.jpg"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\examples\\example3.jpeg",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\examples\\example3.jpeg"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\examples\\example4-300x300.jpg",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\examples\\example4-300x300.jpg"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\examples\\example4.jpeg",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\examples\\example4.jpeg"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\examples\\example5-300x300.jpg",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\examples\\example5-300x300.jpg"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\examples\\example5.jpeg",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\examples\\example5.jpeg"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\examples\\example6-300x300.jpg",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\examples\\example6-300x300.jpg"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\examples\\example6.jpeg",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\examples\\example6.jpeg"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\examples\\example7-300x300.jpg",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\examples\\example7-300x300.jpg"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\examples\\example7.jpeg",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\examples\\example7.jpeg"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\examples\\example8-300x300.jpg",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\examples\\example8-300x300.jpg"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\examples\\example8.jpeg",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\examples\\example8.jpeg"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\examples\\example9-300x300.jpg",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\examples\\example9-300x300.jpg"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\examples\\example9.jpeg",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\examples\\example9.jpeg"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\examples\\logo.svg",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\examples\\logo.svg"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\examples\\logo1.svg",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\examples\\logo1.svg"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\examples\\logo2.svg",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\examples\\logo2.svg"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\examples\\logoinvoice.svg",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\examples\\logoinvoice.svg"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\examples\\product1.jpg",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\examples\\product1.jpg"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\examples\\product10.jpeg",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\examples\\product10.jpeg"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\examples\\product11.jpeg",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\examples\\product11.jpeg"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\examples\\product12.jpeg",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\examples\\product12.jpeg"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\examples\\product2.jpg",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\examples\\product2.jpg"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\examples\\product3.jpg",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\examples\\product3.jpg"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\examples\\product4.jpg",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\examples\\product4.jpg"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\examples\\product5.jpg",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\examples\\product5.jpg"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\examples\\product6.jpg",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\examples\\product6.jpg"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\examples\\product7.jpg",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\examples\\product7.jpg"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\examples\\product8.jpg",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\examples\\product8.jpg"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\ad.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\ad.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\ae.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\ae.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\af.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\af.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\ag.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\ag.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\ai.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\ai.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\al.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\al.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\am.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\am.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\an.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\an.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\ao.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\ao.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\ar.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\ar.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\as.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\as.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\at.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\at.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\au.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\au.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\aw.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\aw.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\ax.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\ax.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\az.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\az.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\ba.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\ba.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\bb.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\bb.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\bd.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\bd.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\be.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\be.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\bf.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\bf.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\bg.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\bg.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\bh.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\bh.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\bi.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\bi.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\bj.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\bj.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\bm.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\bm.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\bn.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\bn.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\bo.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\bo.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\br.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\br.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\bs.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\bs.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\bt.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\bt.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\bv.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\bv.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\bw.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\bw.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\by.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\by.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\bz.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\bz.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\ca.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\ca.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\catalonia.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\catalonia.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\cc.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\cc.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\cd.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\cd.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\cf.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\cf.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\cg.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\cg.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\ch.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\ch.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\ci.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\ci.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\ck.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\ck.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\cl.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\cl.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\cm.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\cm.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\cn.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\cn.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\co.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\co.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\cr.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\cr.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\cs.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\cs.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\cu.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\cu.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\cv.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\cv.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\cx.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\cx.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\cy.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\cy.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\cz.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\cz.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\de.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\de.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\dj.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\dj.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\dk.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\dk.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\dm.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\dm.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\do.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\do.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\dz.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\dz.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\ec.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\ec.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\ee.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\ee.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\eg.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\eg.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\eh.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\eh.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\england.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\england.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\er.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\er.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\es.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\es.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\et.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\et.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\europeanunion.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\europeanunion.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\fam.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\fam.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\fi.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\fi.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\fj.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\fj.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\fk.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\fk.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\fm.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\fm.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\fo.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\fo.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\fr.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\fr.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\ga.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\ga.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\gb.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\gb.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\gd.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\gd.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\ge.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\ge.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\gf.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\gf.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\gh.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\gh.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\gi.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\gi.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\gl.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\gl.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\gm.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\gm.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\gn.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\gn.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\gp.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\gp.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\gq.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\gq.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\gr.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\gr.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\gs.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\gs.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\gt.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\gt.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\gu.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\gu.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\gw.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\gw.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\gy.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\gy.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\hk.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\hk.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\hm.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\hm.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\hn.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\hn.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\hr.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\hr.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\ht.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\ht.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\hu.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\hu.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\id.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\id.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\ie.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\ie.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\il.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\il.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\in.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\in.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\io.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\io.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\iq.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\iq.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\ir.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\ir.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\is.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\is.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\it.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\it.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\jm.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\jm.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\jo.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\jo.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\jp.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\jp.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\ke.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\ke.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\kg.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\kg.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\kh.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\kh.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\ki.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\ki.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\km.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\km.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\kn.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\kn.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\kp.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\kp.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\kr.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\kr.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\kw.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\kw.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\ky.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\ky.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\kz.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\kz.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\la.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\la.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\lb.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\lb.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\lc.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\lc.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\li.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\li.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\lk.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\lk.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\lr.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\lr.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\ls.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\ls.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\lt.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\lt.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\lu.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\lu.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\lv.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\lv.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\ly.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\ly.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\ma.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\ma.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\mc.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\mc.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\md.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\md.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\me.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\me.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\mg.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\mg.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\mh.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\mh.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\mk.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\mk.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\ml.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\ml.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\mm.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\mm.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\mn.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\mn.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\mo.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\mo.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\mp.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\mp.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\mq.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\mq.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\mr.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\mr.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\ms.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\ms.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\mt.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\mt.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\mu.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\mu.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\mv.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\mv.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\mw.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\mw.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\mx.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\mx.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\my.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\my.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\mz.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\mz.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\na.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\na.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\nc.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\nc.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\ne.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\ne.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\nf.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\nf.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\ng.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\ng.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\ni.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\ni.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\nl.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\nl.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\no.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\no.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\np.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\np.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\nr.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\nr.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\nu.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\nu.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\nz.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\nz.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\om.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\om.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\pa.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\pa.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\pe.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\pe.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\pf.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\pf.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\pg.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\pg.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\ph.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\ph.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\pk.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\pk.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\pl.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\pl.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\pm.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\pm.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\pn.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\pn.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\pr.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\pr.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\ps.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\ps.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\pt.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\pt.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\pw.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\pw.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\py.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\py.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\qa.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\qa.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\re.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\re.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\readme.txt",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\readme.txt"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\ro.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\ro.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\rs.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\rs.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\ru.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\ru.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\rw.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\rw.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\sa.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\sa.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\sb.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\sb.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\sc.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\sc.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\scotland.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\scotland.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\sd.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\sd.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\se.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\se.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\sg.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\sg.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\sh.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\sh.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\si.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\si.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\sj.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\sj.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\sk.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\sk.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\sl.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\sl.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\sm.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\sm.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\sn.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\sn.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\so.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\so.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\sr.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\sr.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\st.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\st.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\sv.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\sv.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\sy.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\sy.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\sz.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\sz.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\tc.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\tc.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\td.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\td.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\tf.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\tf.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\tg.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\tg.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\th.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\th.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\tj.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\tj.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\tk.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\tk.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\tl.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\tl.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\tm.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\tm.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\tn.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\tn.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\to.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\to.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\tr.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\tr.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\tt.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\tt.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\tv.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\tv.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\tw.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\tw.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\tz.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\tz.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\ua.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\ua.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\ug.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\ug.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\um.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\um.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\us.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\us.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\uy.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\uy.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\uz.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\uz.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\va.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\va.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\vc.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\vc.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\ve.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\ve.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\vg.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\vg.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\vi.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\vi.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\vn.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\vn.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\vu.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\vu.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\wales.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\wales.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\wf.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\wf.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\ws.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\ws.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\ye.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\ye.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\yt.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\yt.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\za.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\za.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\zm.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\zm.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\zw.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\flags\\zw.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\img-shadow.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\img-shadow.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\jm_denis.jpg",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\jm_denis.jpg"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\kaiadmin\\demo1.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\kaiadmin\\demo1.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\kaiadmin\\demo2.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\kaiadmin\\demo2.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\kaiadmin\\demo3.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\kaiadmin\\demo3.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\kaiadmin\\demo4.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\kaiadmin\\demo4.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\kaiadmin\\demo5.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\kaiadmin\\demo5.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\kaiadmin\\demo6.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\kaiadmin\\demo6.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\kaiadmin\\demo7.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\kaiadmin\\demo7.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\kaiadmin\\demo8.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\kaiadmin\\demo8.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\kaiadmin\\demo9.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\kaiadmin\\demo9.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\kaiadmin\\favicon.ico",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\kaiadmin\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\kaiadmin\\favicon.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\kaiadmin\\favicon.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\kaiadmin\\favicon.svg",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\kaiadmin\\favicon.svg"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\kaiadmin\\icon.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\kaiadmin\\icon.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\kaiadmin\\icon.svg",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\kaiadmin\\icon.svg"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\kaiadmin\\logo_dark.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\kaiadmin\\logo_dark.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\kaiadmin\\logo_dark.svg",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\kaiadmin\\logo_dark.svg"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\kaiadmin\\logo_documentation.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\kaiadmin\\logo_documentation.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\kaiadmin\\logo_light.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\kaiadmin\\logo_light.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\kaiadmin\\logo_light.svg",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\kaiadmin\\logo_light.svg"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\logoproduct.svg",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\logoproduct.svg"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\logoproduct2.svg",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\logoproduct2.svg"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\logoproduct3.svg",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\logoproduct3.svg"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\mlane.jpg",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\mlane.jpg"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\profile.jpg",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\profile.jpg"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\profile2.jpg",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\profile2.jpg"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\sauro.jpg",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\sauro.jpg"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\talha.jpg",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\talha.jpg"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\undraw\\undraw_Hello_qnas.svg",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\undraw\\undraw_Hello_qnas.svg"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\undraw\\undraw_Taken_if77.svg",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\undraw\\undraw_Taken_if77.svg"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\undraw\\undraw_blank_canvas_3rbb.svg",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\undraw\\undraw_blank_canvas_3rbb.svg"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\undraw\\undraw_creative_team_r90h.svg",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\undraw\\undraw_creative_team_r90h.svg"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\undraw\\undraw_empty_xct9.svg",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\undraw\\undraw_empty_xct9.svg"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\undraw\\undraw_no_data_qbuo.svg",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\undraw\\undraw_no_data_qbuo.svg"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\undraw\\undraw_not_found_60pq.svg",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\undraw\\undraw_not_found_60pq.svg"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\undraw\\undraw_page_not_found_su7k.svg",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\undraw\\undraw_page_not_found_su7k.svg"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\undraw\\undraw_sign_in_e6hj.svg",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\undraw\\undraw_sign_in_e6hj.svg"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\undraw\\undraw_tabs_jf82.svg",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\undraw\\undraw_tabs_jf82.svg"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\undraw\\undraw_update_uxn2.svg",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\undraw\\undraw_update_uxn2.svg"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\undraw\\undraw_upgrade_06a0.svg",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\undraw\\undraw_upgrade_06a0.svg"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\img\\visa.svg",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\visa.svg"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\js\\core\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\js\\core\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\js\\core\\jquery-3.7.1.min.js",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\js\\core\\jquery-3.7.1.min.js"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\js\\core\\popper.min.js",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\js\\core\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\js\\demo.js",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\js\\demo.js"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\js\\kaiadmin.js",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\js\\kaiadmin.js"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\js\\kaiadmin.min.js",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\js\\kaiadmin.min.js"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\js\\plugin\\bootstrap-notify\\bootstrap-notify.min.js",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\js\\plugin\\bootstrap-notify\\bootstrap-notify.min.js"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\js\\plugin\\bootstrap-tagsinput\\bootstrap-tagsinput.min.js",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\js\\plugin\\bootstrap-tagsinput\\bootstrap-tagsinput.min.js"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\js\\plugin\\bootstrap-toggle\\bootstrap-toggle.min.js",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\js\\plugin\\bootstrap-toggle\\bootstrap-toggle.min.js"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\js\\plugin\\chart-circle\\circles.min.js",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\js\\plugin\\chart-circle\\circles.min.js"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\js\\plugin\\chart.js\\chart.min.js",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\js\\plugin\\chart.js\\chart.min.js"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\js\\plugin\\datatables\\datatables.min.js",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\js\\plugin\\datatables\\datatables.min.js"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\js\\plugin\\datepicker\\bootstrap-datetimepicker.min.js",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\js\\plugin\\datepicker\\bootstrap-datetimepicker.min.js"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\js\\plugin\\dropzone\\dropzone.min.js",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\js\\plugin\\dropzone\\dropzone.min.js"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\js\\plugin\\fullcalendar\\fullcalendar.min.js",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\js\\plugin\\fullcalendar\\fullcalendar.min.js"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\js\\plugin\\gmaps\\gmaps.js",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\js\\plugin\\gmaps\\gmaps.js"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\js\\plugin\\jquery-scrollbar\\jquery.scrollbar.min.js",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\js\\plugin\\jquery-scrollbar\\jquery.scrollbar.min.js"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\js\\plugin\\jquery.magnific-popup\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\js\\plugin\\jquery.magnific-popup\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\js\\plugin\\jquery.sparkline\\jquery.sparkline.min.js",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\js\\plugin\\jquery.sparkline\\jquery.sparkline.min.js"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\js\\plugin\\jquery.validate\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\js\\plugin\\jquery.validate\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\js\\plugin\\jsvectormap\\jsvectormap.min.js",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\js\\plugin\\jsvectormap\\jsvectormap.min.js"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\js\\plugin\\jsvectormap\\world.js",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\js\\plugin\\jsvectormap\\world.js"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\js\\plugin\\list.js\\list.min.js",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\js\\plugin\\list.js\\list.min.js"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\js\\plugin\\moment\\moment.min.js",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\js\\plugin\\moment\\moment.min.js"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\js\\plugin\\owl-carousel\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\js\\plugin\\owl-carousel\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\js\\plugin\\owl-carousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\js\\plugin\\owl-carousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\js\\plugin\\owl-carousel\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\js\\plugin\\owl-carousel\\owl.video.play.png"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\js\\plugin\\select2\\select2.full.min.js",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\js\\plugin\\select2\\select2.full.min.js"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\js\\plugin\\sortable\\sortable.min.js",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\js\\plugin\\sortable\\sortable.min.js"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\js\\plugin\\sticky-sidebar\\sticky-sidebar.min.js",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\js\\plugin\\sticky-sidebar\\sticky-sidebar.min.js"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\js\\plugin\\summernote\\summernote-lite.min.js",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\js\\plugin\\summernote\\summernote-lite.min.js"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\js\\plugin\\sweetalert\\sweetalert.min.js",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\js\\plugin\\sweetalert\\sweetalert.min.js"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\js\\plugin\\webfont\\webfont.min.js",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\js\\plugin\\webfont\\webfont.min.js"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\js\\setting-demo.js",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\js\\setting-demo.js"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\js\\setting-demo2.js",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\js\\setting-demo2.js"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\charts\\charts.html",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\charts\\charts.html"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\charts\\sparkline.html",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\charts\\sparkline.html"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\components\\avatars.html",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\components\\avatars.html"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\components\\buttons.html",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\components\\buttons.html"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\components\\font-awesome-icons.html",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\components\\font-awesome-icons.html"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\components\\gridsystem.html",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\components\\gridsystem.html"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\components\\notifications.html",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\components\\notifications.html"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\components\\panels.html",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\components\\panels.html"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\components\\simple-line-icons.html",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\components\\simple-line-icons.html"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\components\\sweetalert.html",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\components\\sweetalert.html"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\components\\typography.html",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\components\\typography.html"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\forms\\forms.html",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\forms\\forms.html"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\icon-menu.html",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\icon-menu.html"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\index.html",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\index.html"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\maps\\googlemaps.html",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\maps\\googlemaps.html"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\maps\\jsvectormap.html",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\maps\\jsvectormap.html"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\sidebar-style-2.html",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\sidebar-style-2.html"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\starter-template.html",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\starter-template.html"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\tables\\datatables.html",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\tables\\datatables.html"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\tables\\tables.html",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\tables\\tables.html"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\kaiadmin-lite-1.2.0\\widgets.html",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\widgets.html"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.MyMongoProjectNight.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.MyMongoProjectNight.props",
+      "PackagePath": "build\\MyMongoProjectNight.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.MyMongoProjectNight.props",
+      "PackagePath": "buildMultiTargeting\\MyMongoProjectNight.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.MyMongoProjectNight.props",
+      "PackagePath": "buildTransitive\\MyMongoProjectNight.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

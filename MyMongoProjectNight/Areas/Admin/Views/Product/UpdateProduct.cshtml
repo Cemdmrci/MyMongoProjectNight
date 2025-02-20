@@ -18,6 +18,10 @@
                             <label>Ürün Adı</label>
                             <input type="text" asp-for="ProductName" class="form-control">
                             <br />
+                            <label>Ürün Kategorisi</label>
+                            <select asp-for="CategoryId" asp-items="ViewBag.Categories" class="form-control">
+                                <option value="">Bir Kategori Seçin</option>
+                            </select>
                             <label>Görsel</label>
                             <input type="text" asp-for="ProductImageURL" class="form-control" style="width: 150px; height: 150px;">
                             <br />

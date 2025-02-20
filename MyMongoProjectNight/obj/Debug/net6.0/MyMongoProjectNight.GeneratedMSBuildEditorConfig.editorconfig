@@ -1,0 +1,199 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MyMongoProjectNight
+build_property.RootNamespace = MyMongoProjectNight
+build_property.ProjectDir = C:\Projects\Udemy\murat_yucedag\Uygulamalarlac#\MyMongoProjectNight\MyMongoProjectNight\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Projects\Udemy\murat_yucedag\Uygulamalarlac#\MyMongoProjectNight\MyMongoProjectNight
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Projects/Udemy/murat_yucedag/Uygulamalarlac\#/MyMongoProjectNight/MyMongoProjectNight/Areas/Admin/Views/Category/CategoryList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlcQ2F0ZWdvcnlMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/Udemy/murat_yucedag/Uygulamalarlac\#/MyMongoProjectNight/MyMongoProjectNight/Areas/Admin/Views/Category/CreateCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlcQ3JlYXRlQ2F0ZWdvcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/Udemy/murat_yucedag/Uygulamalarlac\#/MyMongoProjectNight/MyMongoProjectNight/Areas/Admin/Views/Category/UpdateCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlcVXBkYXRlQ2F0ZWdvcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/Udemy/murat_yucedag/Uygulamalarlac\#/MyMongoProjectNight/MyMongoProjectNight/Areas/Admin/Views/Discount/CreateDiscount.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRGlzY291bnRcQ3JlYXRlRGlzY291bnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/Udemy/murat_yucedag/Uygulamalarlac\#/MyMongoProjectNight/MyMongoProjectNight/Areas/Admin/Views/Discount/DiscountList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRGlzY291bnRcRGlzY291bnRMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/Udemy/murat_yucedag/Uygulamalarlac\#/MyMongoProjectNight/MyMongoProjectNight/Areas/Admin/Views/Discount/UpdateDiscount.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRGlzY291bnRcVXBkYXRlRGlzY291bnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/Udemy/murat_yucedag/Uygulamalarlac\#/MyMongoProjectNight/MyMongoProjectNight/Areas/Admin/Views/Feature/CreateFeature.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRmVhdHVyZVxDcmVhdGVGZWF0dXJlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/Udemy/murat_yucedag/Uygulamalarlac\#/MyMongoProjectNight/MyMongoProjectNight/Areas/Admin/Views/Feature/FeatureList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRmVhdHVyZVxGZWF0dXJlTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/Udemy/murat_yucedag/Uygulamalarlac\#/MyMongoProjectNight/MyMongoProjectNight/Areas/Admin/Views/Feature/UpdateFeature.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRmVhdHVyZVxVcGRhdGVGZWF0dXJlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/Udemy/murat_yucedag/Uygulamalarlac\#/MyMongoProjectNight/MyMongoProjectNight/Areas/Admin/Views/Product/CreateProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxDcmVhdGVQcm9kdWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/Udemy/murat_yucedag/Uygulamalarlac\#/MyMongoProjectNight/MyMongoProjectNight/Areas/Admin/Views/Product/ProductList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxQcm9kdWN0TGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/Udemy/murat_yucedag/Uygulamalarlac\#/MyMongoProjectNight/MyMongoProjectNight/Areas/Admin/Views/Product/UpdateProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxVcGRhdGVQcm9kdWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/Udemy/murat_yucedag/Uygulamalarlac\#/MyMongoProjectNight/MyMongoProjectNight/Areas/Admin/Views/Sale/CreateSale.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2FsZVxDcmVhdGVTYWxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/Udemy/murat_yucedag/Uygulamalarlac\#/MyMongoProjectNight/MyMongoProjectNight/Areas/Admin/Views/Sale/SaleList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2FsZVxTYWxlTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/Udemy/murat_yucedag/Uygulamalarlac\#/MyMongoProjectNight/MyMongoProjectNight/Areas/Admin/Views/Sale/UpdateSale.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2FsZVxVcGRhdGVTYWxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/Udemy/murat_yucedag/Uygulamalarlac\#/MyMongoProjectNight/MyMongoProjectNight/Areas/Admin/Views/Shared/_AdminLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9BZG1pbkxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/Udemy/murat_yucedag/Uygulamalarlac\#/MyMongoProjectNight/MyMongoProjectNight/Areas/Admin/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/Udemy/murat_yucedag/Uygulamalarlac\#/MyMongoProjectNight/MyMongoProjectNight/Views/Customer/CreateCustomer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcQ3JlYXRlQ3VzdG9tZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/Udemy/murat_yucedag/Uygulamalarlac\#/MyMongoProjectNight/MyMongoProjectNight/Views/Customer/CustomerList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcQ3VzdG9tZXJMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/Udemy/murat_yucedag/Uygulamalarlac\#/MyMongoProjectNight/MyMongoProjectNight/Views/Customer/UpdateCustomer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcVXBkYXRlQ3VzdG9tZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/Udemy/murat_yucedag/Uygulamalarlac\#/MyMongoProjectNight/MyMongoProjectNight/Views/Default/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVmYXVsdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/Udemy/murat_yucedag/Uygulamalarlac\#/MyMongoProjectNight/MyMongoProjectNight/Views/Department/CreateDepartment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxDcmVhdGVEZXBhcnRtZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/Udemy/murat_yucedag/Uygulamalarlac\#/MyMongoProjectNight/MyMongoProjectNight/Views/Department/DepartmentList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxEZXBhcnRtZW50TGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/Udemy/murat_yucedag/Uygulamalarlac\#/MyMongoProjectNight/MyMongoProjectNight/Views/Department/UpdateDepartment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxVcGRhdGVEZXBhcnRtZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/Udemy/murat_yucedag/Uygulamalarlac\#/MyMongoProjectNight/MyMongoProjectNight/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/Udemy/murat_yucedag/Uygulamalarlac\#/MyMongoProjectNight/MyMongoProjectNight/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/Udemy/murat_yucedag/Uygulamalarlac\#/MyMongoProjectNight/MyMongoProjectNight/Views/Product/FastFood.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxGYXN0Rm9vZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/Udemy/murat_yucedag/Uygulamalarlac\#/MyMongoProjectNight/MyMongoProjectNight/Views/Product/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/Udemy/murat_yucedag/Uygulamalarlac\#/MyMongoProjectNight/MyMongoProjectNight/Views/Product/SebzeMeyve.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxTZWJ6ZU1leXZlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/Udemy/murat_yucedag/Uygulamalarlac\#/MyMongoProjectNight/MyMongoProjectNight/Views/Product/Sekerlemeler.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxTZWtlcmxlbWVsZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/Udemy/murat_yucedag/Uygulamalarlac\#/MyMongoProjectNight/MyMongoProjectNight/Views/Product/SutUrunleri.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxTdXRVcnVubGVyaS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/Udemy/murat_yucedag/Uygulamalarlac\#/MyMongoProjectNight/MyMongoProjectNight/Views/Product/UnluMamuller.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxVbmx1TWFtdWxsZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/Udemy/murat_yucedag/Uygulamalarlac\#/MyMongoProjectNight/MyMongoProjectNight/Views/Product/Yag.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxZYWcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/Udemy/murat_yucedag/Uygulamalarlac\#/MyMongoProjectNight/MyMongoProjectNight/Views/Shared/Components/_DefaultBestSellingComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0RlZmF1bHRCZXN0U2VsbGluZ0NvbXBvbmVudFBhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/Udemy/murat_yucedag/Uygulamalarlac\#/MyMongoProjectNight/MyMongoProjectNight/Views/Shared/Components/_DefaultCategoryDiscountSectionComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0RlZmF1bHRDYXRlZ29yeURpc2NvdW50U2VjdGlvbkNvbXBvbmVudFBhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/Udemy/murat_yucedag/Uygulamalarlac\#/MyMongoProjectNight/MyMongoProjectNight/Views/Shared/Components/_DefaultCategorySectionComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0RlZmF1bHRDYXRlZ29yeVNlY3Rpb25Db21wb25lbnRQYXJ0aWFsXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/Udemy/murat_yucedag/Uygulamalarlac\#/MyMongoProjectNight/MyMongoProjectNight/Views/Shared/Components/_DefaultDiscountComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0RlZmF1bHREaXNjb3VudENvbXBvbmVudFBhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/Udemy/murat_yucedag/Uygulamalarlac\#/MyMongoProjectNight/MyMongoProjectNight/Views/Shared/Components/_DefaultSendMailComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0RlZmF1bHRTZW5kTWFpbENvbXBvbmVudFBhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/Udemy/murat_yucedag/Uygulamalarlac\#/MyMongoProjectNight/MyMongoProjectNight/Views/Shared/Components/_DefaultTrendingProductComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0RlZmF1bHRUcmVuZGluZ1Byb2R1Y3RDb21wb25lbnRQYXJ0aWFsXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/Udemy/murat_yucedag/Uygulamalarlac\#/MyMongoProjectNight/MyMongoProjectNight/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/Udemy/murat_yucedag/Uygulamalarlac\#/MyMongoProjectNight/MyMongoProjectNight/Views/Shared/_FoodMartLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Gb29kTWFydExheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/Udemy/murat_yucedag/Uygulamalarlac\#/MyMongoProjectNight/MyMongoProjectNight/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/Udemy/murat_yucedag/Uygulamalarlac\#/MyMongoProjectNight/MyMongoProjectNight/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/Udemy/murat_yucedag/Uygulamalarlac\#/MyMongoProjectNight/MyMongoProjectNight/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/Udemy/murat_yucedag/Uygulamalarlac\#/MyMongoProjectNight/MyMongoProjectNight/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ydiqksifqs

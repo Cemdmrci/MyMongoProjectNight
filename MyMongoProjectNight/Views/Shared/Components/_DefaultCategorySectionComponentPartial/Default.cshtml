@@ -26,8 +26,7 @@
 					<div class="swiper-wrapper">
 						@foreach (var item in Model)
 						{
-							<a href="@Url.Action("Index", "Product", new { id = item.CategoryId })" class="nav-link category-item swiper-slide">
-
+							<a href="/Product/@item.CategoryName" class="nav-link category-item swiper-slide">
 								<img src="@item.CategoryImageURL" alt="Category Thumbnail" style="width: 200px; height: 200px;">
 								<h3 class="category-title">@item.CategoryName</h3>
 							</a>

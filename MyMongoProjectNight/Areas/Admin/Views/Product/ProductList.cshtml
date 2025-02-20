@@ -16,6 +16,7 @@
                         <thead>
                             <tr>
                                 <th scope="col">Ürün Adı</th>
+                                <th scope="col">Kategori</th>
                                 <th scope="col">Fiyat</th>
                                 <th scope="col">Görsel</th>
                                 <th scope="col">Sil</th>
@@ -28,6 +29,7 @@
                             {
                                 <tr>
                                     <td>@item.ProductName</td>
+                                    <td>@item.CategoryName</td>
                                     <td>@item.Price ₺</td>
                                     <td><img src="@item.ProductImageURL" style="width: 150px; height: 150px;" /></td>
                                     <td><a href="/Admin/Product/DeleteProduct/@item.ProductId" class="btn btn-danger">Sil</a></td>
