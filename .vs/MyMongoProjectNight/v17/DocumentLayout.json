@@ -1,7 +1,44 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F576D47F-6124-4681-B058-9348BAF53007}|MyMongoProjectNight\\MyMongoProjectNight.csproj|c:\\projects\\udemy\\murat_yucedag\\uygulamalarlac#\\mymongoprojectnight\\mymongoprojectnight\\areas\\admin\\views\\product\\productlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F576D47F-6124-4681-B058-9348BAF53007}|MyMongoProjectNight\\MyMongoProjectNight.csproj|solutionrelative:mymongoprojectnight\\areas\\admin\\views\\product\\productlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F576D47F-6124-4681-B058-9348BAF53007}|MyMongoProjectNight\\MyMongoProjectNight.csproj|c:\\projects\\udemy\\murat_yucedag\\uygulamalarlac#\\mymongoprojectnight\\mymongoprojectnight\\areas\\admin\\views\\category\\createcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F576D47F-6124-4681-B058-9348BAF53007}|MyMongoProjectNight\\MyMongoProjectNight.csproj|solutionrelative:mymongoprojectnight\\areas\\admin\\views\\category\\createcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F576D47F-6124-4681-B058-9348BAF53007}|MyMongoProjectNight\\MyMongoProjectNight.csproj|c:\\projects\\udemy\\murat_yucedag\\uygulamalarlac#\\mymongoprojectnight\\mymongoprojectnight\\areas\\admin\\views\\sale\\salelist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F576D47F-6124-4681-B058-9348BAF53007}|MyMongoProjectNight\\MyMongoProjectNight.csproj|solutionrelative:mymongoprojectnight\\areas\\admin\\views\\sale\\salelist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F576D47F-6124-4681-B058-9348BAF53007}|MyMongoProjectNight\\MyMongoProjectNight.csproj|c:\\projects\\udemy\\murat_yucedag\\uygulamalarlac#\\mymongoprojectnight\\mymongoprojectnight\\areas\\admin\\views\\category\\categorylist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F576D47F-6124-4681-B058-9348BAF53007}|MyMongoProjectNight\\MyMongoProjectNight.csproj|solutionrelative:mymongoprojectnight\\areas\\admin\\views\\category\\categorylist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F576D47F-6124-4681-B058-9348BAF53007}|MyMongoProjectNight\\MyMongoProjectNight.csproj|c:\\projects\\udemy\\murat_yucedag\\uygulamalarlac#\\mymongoprojectnight\\mymongoprojectnight\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F576D47F-6124-4681-B058-9348BAF53007}|MyMongoProjectNight\\MyMongoProjectNight.csproj|solutionrelative:mymongoprojectnight\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F576D47F-6124-4681-B058-9348BAF53007}|MyMongoProjectNight\\MyMongoProjectNight.csproj|c:\\projects\\udemy\\murat_yucedag\\uygulamalarlac#\\mymongoprojectnight\\mymongoprojectnight\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F576D47F-6124-4681-B058-9348BAF53007}|MyMongoProjectNight\\MyMongoProjectNight.csproj|solutionrelative:mymongoprojectnight\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F576D47F-6124-4681-B058-9348BAF53007}|MyMongoProjectNight\\MyMongoProjectNight.csproj|c:\\projects\\udemy\\murat_yucedag\\uygulamalarlac#\\mymongoprojectnight\\mymongoprojectnight\\areas\\admin\\controllers\\salecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F576D47F-6124-4681-B058-9348BAF53007}|MyMongoProjectNight\\MyMongoProjectNight.csproj|solutionrelative:mymongoprojectnight\\areas\\admin\\controllers\\salecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F576D47F-6124-4681-B058-9348BAF53007}|MyMongoProjectNight\\MyMongoProjectNight.csproj|c:\\projects\\udemy\\murat_yucedag\\uygulamalarlac#\\mymongoprojectnight\\mymongoprojectnight\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F576D47F-6124-4681-B058-9348BAF53007}|MyMongoProjectNight\\MyMongoProjectNight.csproj|solutionrelative:mymongoprojectnight\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F576D47F-6124-4681-B058-9348BAF53007}|MyMongoProjectNight\\MyMongoProjectNight.csproj|c:\\projects\\udemy\\murat_yucedag\\uygulamalarlac#\\mymongoprojectnight\\mymongoprojectnight\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F576D47F-6124-4681-B058-9348BAF53007}|MyMongoProjectNight\\MyMongoProjectNight.csproj|solutionrelative:mymongoprojectnight\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -25,11 +62,132 @@
             },
             {
               "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductList.cshtml",
+              "DocumentMoniker": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\Areas\\Admin\\Views\\Product\\ProductList.cshtml",
+              "RelativeDocumentMoniker": "MyMongoProjectNight\\Areas\\Admin\\Views\\Product\\ProductList.cshtml",
+              "ToolTip": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\Areas\\Admin\\Views\\Product\\ProductList.cshtml",
+              "RelativeToolTip": "MyMongoProjectNight\\Areas\\Admin\\Views\\Product\\ProductList.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-21T21:01:08.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "MyMongoProjectNight\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "MyMongoProjectNight\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwCkAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T21:01:04.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryList.cshtml",
+              "DocumentMoniker": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\Areas\\Admin\\Views\\Category\\CategoryList.cshtml",
+              "RelativeDocumentMoniker": "MyMongoProjectNight\\Areas\\Admin\\Views\\Category\\CategoryList.cshtml",
+              "ToolTip": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\Areas\\Admin\\Views\\Category\\CategoryList.cshtml",
+              "RelativeToolTip": "MyMongoProjectNight\\Areas\\Admin\\Views\\Category\\CategoryList.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACIAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-21T20:50:06.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SaleList.cshtml",
+              "DocumentMoniker": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\Areas\\Admin\\Views\\Sale\\SaleList.cshtml",
+              "RelativeDocumentMoniker": "MyMongoProjectNight\\Areas\\Admin\\Views\\Sale\\SaleList.cshtml",
+              "ToolTip": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\Areas\\Admin\\Views\\Sale\\SaleList.cshtml",
+              "RelativeToolTip": "MyMongoProjectNight\\Areas\\Admin\\Views\\Sale\\SaleList.cshtml",
+              "ViewState": "AQIAABQAAAAAAAAAAAAgwC8AAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-21T20:41:45.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SaleController.cs",
+              "DocumentMoniker": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\Areas\\Admin\\Controllers\\SaleController.cs",
+              "RelativeDocumentMoniker": "MyMongoProjectNight\\Areas\\Admin\\Controllers\\SaleController.cs",
+              "ToolTip": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\Areas\\Admin\\Controllers\\SaleController.cs",
+              "RelativeToolTip": "MyMongoProjectNight\\Areas\\Admin\\Controllers\\SaleController.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAgwDgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T20:41:39.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\Views\\Default\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyMongoProjectNight\\Views\\Default\\Index.cshtml",
+              "ToolTip": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\Views\\Default\\Index.cshtml",
+              "RelativeToolTip": "MyMongoProjectNight\\Views\\Default\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-21T20:40:38.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DefaultController.cs",
+              "DocumentMoniker": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\Controllers\\DefaultController.cs",
+              "RelativeDocumentMoniker": "MyMongoProjectNight\\Controllers\\DefaultController.cs",
+              "ToolTip": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\Controllers\\DefaultController.cs",
+              "RelativeToolTip": "MyMongoProjectNight\\Controllers\\DefaultController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T20:40:33.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateCategory.cshtml",
+              "DocumentMoniker": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\Areas\\Admin\\Views\\Category\\CreateCategory.cshtml",
+              "RelativeDocumentMoniker": "MyMongoProjectNight\\Areas\\Admin\\Views\\Category\\CreateCategory.cshtml",
+              "ToolTip": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\Areas\\Admin\\Views\\Category\\CreateCategory.cshtml",
+              "RelativeToolTip": "MyMongoProjectNight\\Areas\\Admin\\Views\\Category\\CreateCategory.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-21T20:36:50.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "MyMongoProjectNight\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Projects\\Udemy\\murat_yucedag\\Uygulamalarlac#\\MyMongoProjectNight\\MyMongoProjectNight\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "MyMongoProjectNight\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwB4AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T20:36:43.743Z",
+              "EditorCaption": ""
             }
           ]
         }

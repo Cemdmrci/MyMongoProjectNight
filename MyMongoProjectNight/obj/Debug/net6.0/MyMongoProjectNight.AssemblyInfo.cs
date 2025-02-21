@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MyMongoProjectNight")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+01e4ad40ebaa78ad35bb6ae2b7f2f308b69466ab")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d1927a26c32fb4c4664979c6d6c3a8f98162f846")]
 [assembly: System.Reflection.AssemblyProductAttribute("MyMongoProjectNight")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MyMongoProjectNight")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
